@@ -16,7 +16,4 @@ connectDB().then(()=>{
 app.listen(PORT,()=>console.log(`Server started on port ${PORT}`))
 
 })
-//store the data json in the backend from post man app.post
-// when i search ask to get the item get it from the database
-// we could add the add to cart button also
-//when i click on a project it should display the product and same brand items
+
